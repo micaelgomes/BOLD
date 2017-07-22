@@ -1,0 +1,286 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"com",
+				"compilar"
+			],
+			[
+				"a",
+				"altura"
+			],
+			[
+				"print",
+				"printw"
+			],
+			[
+				"COLO",
+				"COLOR_PAIR"
+			],
+			[
+				"str",
+				"strlen"
+			],
+			[
+				"W",
+				"while"
+			],
+			[
+				"st",
+				"strlen"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"std",
+				"stdscr"
+			],
+			[
+				"de",
+				"define"
+			],
+			[
+				"ge",
+				"getmaxyx"
+			],
+			[
+				"des",
+				"desenha_menu"
+			],
+			[
+				"bo",
+				"botao_inicio"
+			],
+			[
+				"te",
+				"terminal"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"e",
+				"editor"
+			],
+			[
+				"ar",
+				"arq"
+			],
+			[
+				"fe",
+				"fgets"
+			],
+			[
+				"ma",
+				"malloc"
+			],
+			[
+				"f",
+				"fclose"
+			],
+			[
+				"s",
+				"s"
+			],
+			[
+				"t",
+				"troca"
+			],
+			[
+				"re",
+				"retorna_ponteiros"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/micaelgoms/cdg_c/ncurses/buffer.c",
+		"/home/micaelgoms/cdg_c/ncurses/luz.c",
+		"/home/micaelgoms/cdg_c/ncurses/teste.c",
+		"/home/micaelgoms/cdg_c/ncurses/base.c",
+		"/home/micaelgoms/cdg_c/extra/teste.c",
+		"/home/micaelgoms/tecla.c",
+		"/home/micaelgoms/cdg_c/extra/lista.c",
+		"/home/micaelgoms/cdg_c/ncurses/mouse.c",
+		"/home/micaelgoms/cdg_c/ncurses/editor_bold.c",
+		"/home/micaelgoms/cdg_c/ncurses/home_bold.c",
+		"/home/micaelgoms/cdg_c/ncurses/base1.c",
+		"/home/micaelgoms/cdg_c/ncurses/learn.c",
+		"/home/micaelgoms/cdg_c/learn.c",
+		"/home/micaelgoms/cdg_c/base1.c",
+		"/home/micaelgoms/cdg_c/base.c",
+		"/home/micaelgoms/cdg_c/bold.c",
+		"/home/micaelgoms/cdg_c/sair.c",
+		"/home/micaelgoms/cdg_c/prova..c",
+		"/home/micaelgoms/cdg_c/ab.c",
+		"/home/micaelgoms/cdg_c/comando_continue.c",
+		"/home/micaelgoms/cdg_c/prova.c"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"2",
+			"    \t\n",
+			"node",
+			"\");\n",
+			"bkgd"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "BOLD_0.7.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

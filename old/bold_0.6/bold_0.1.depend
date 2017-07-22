@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1484801568 source:/home/micaelgoms/bold_0.1/main.c
+	<stdlib.h>
+	<stdio.h>
+	<curses.h>
+	<locale.h>
+	"css.h"
+	"tabela_de_valor.h"
+	"editor.h"
+
+1484878207 /home/micaelgoms/bold_0.1/tabela_de_valor.h
+
+1484801318 /home/micaelgoms/bold_0.1/css.h
+
+1484802429 source:/home/micaelgoms/bold_0.1/css.c
+	<ncurses.h>
+	"css.h"
+	"tabela_de_valor.h"
+
+1484872401 source:/home/micaelgoms/bold_0.1/editor.c
+	<stdlib.h>
+	<stdio.h>
+	<curses.h>
+	<locale.h>
+	<string.h>
+	"css.h"
+	"tabela_de_valor.h"
+	"editor.h"
+
+1484878271 /home/micaelgoms/bold_0.1/editor.h
+
+1485120597 source:/home/micaelgoms/bold_0.6/css.c
+	<ncurses.h>
+	"css.h"
+	"tabela_de_valor.h"
+
+1485055359 /home/micaelgoms/bold_0.6/css.h
+
+1485131131 /home/micaelgoms/bold_0.6/tabela_de_valor.h
+
+1485126812 source:/home/micaelgoms/bold_0.6/main.c
+	<stdlib.h>
+	<stdio.h>
+	<curses.h>
+	<locale.h>
+	"css.h"
+	"tabela_de_valor.h"
+	"editor.h"
+
+1485101000 /home/micaelgoms/bold_0.6/editor.h
+
+1485127913 source:/home/micaelgoms/bold_0.6/editor.c
+	<stdlib.h>
+	<stdio.h>
+	<curses.h>
+	<locale.h>
+	<string.h>
+	"css.h"
+	"tabela_de_valor.h"
+	"editor.h"
+
+1485009829 source:/home/micaelgoms/bold_0.6/sub_main.c
+	<stdlib.h>
+	<stdio.h>
+	<curses.h>
+	<locale.h>
+	"css.h"
+	"tabela_de_valor.h"
+	"editor.h"
+
+1485009783 /home/micaelgoms/bold_0.6/sub_main.h
+
+1485019079 source:/home/micaelgoms/bold_0.6/abertura.c
+	<stdlib.h>
+	<curses.h>
+	<locale.h>
+	"css.h"
+	"tabela_de_valor.h"
+	"editor.h"
+	"sub_main.h"
+

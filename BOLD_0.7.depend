@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1485309080 source:/home/micaelgoms/BOLD_0.7/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	<string.h>
+	<ncurses.h>
+	"miscelanea.h"
+	"pseudo_css.h"
+
+1485309555 source:/home/micaelgoms/BOLD_0.7/miscelanea.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	<string.h>
+	<ncurses.h>
+	"tabela_de_valor.h"
+	"pseudo_css.h"
+	"editor.h"
+
+1485309790 source:/home/micaelgoms/BOLD_0.7/editor.c
+	<stdlib.h>
+	<stdio.h>
+	<curses.h>
+	<locale.h>
+	<string.h>
+	"pseudo_css.h"
+	"tabela_de_valor.h"
+	"editor.h"
+
+1485309892 /home/micaelgoms/BOLD_0.7/pseudo_css.h
+
+1485309893 /home/micaelgoms/BOLD_0.7/tabela_de_valor.h
+
+1485309897 /home/micaelgoms/BOLD_0.7/editor.h
+
+1485309894 /home/micaelgoms/BOLD_0.7/miscelanea.h
+
+1485309897 source:/home/micaelgoms/BOLD_0.7/pseudo_css.c
+	<ncurses.h>
+	"pseudo_css.h"
+	"tabela_de_valor.h"
+
+1485309790 source:/home/micaelgoms/BOLD/editor.c
+	<stdlib.h>
+	<stdio.h>
+	<curses.h>
+	<locale.h>
+	<string.h>
+	"pseudo_css.h"
+	"tabela_de_valor.h"
+	"editor.h"
+
+1485309892 /home/micaelgoms/BOLD/pseudo_css.h
+
+1485309893 /home/micaelgoms/BOLD/tabela_de_valor.h
+
+1485309897 /home/micaelgoms/BOLD/editor.h
+
+1485309080 source:/home/micaelgoms/BOLD/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	<string.h>
+	<ncurses.h>
+	"miscelanea.h"
+	"pseudo_css.h"
+
+1485309894 /home/micaelgoms/BOLD/miscelanea.h
+
+1485309555 source:/home/micaelgoms/BOLD/miscelanea.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	<string.h>
+	<ncurses.h>
+	"tabela_de_valor.h"
+	"pseudo_css.h"
+	"editor.h"
+
+1485309897 source:/home/micaelgoms/BOLD/pseudo_css.c
+	<ncurses.h>
+	"pseudo_css.h"
+	"tabela_de_valor.h"
+
